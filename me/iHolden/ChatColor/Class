@@ -1,0 +1,23 @@
+	// Instead of using "ChatColor.COLOR" over and over, use these strings. //
+	String yellow = ChatColor.YELLOW + "";
+	String gold = ChatColor.GOLD + "";
+	String red = ChatColor.RED + "";
+	String dark_red = ChatColor.DARK_RED + "";
+	String green = ChatColor.GREEN + "";
+	String dark_green = ChatColor.DARK_GREEN + "";
+	String aqua = ChatColor.AQUA + "";
+	String blue = ChatColor.BLUE + "";
+	String dark_blue = ChatColor.DARK_BLUE + "";
+	String light_purple = ChatColor.LIGHT_PURPLE + "";
+	String dark_purple = ChatColor.DARK_PURPLE + "";
+	String black = ChatColor.BLACK + "";
+	String gray = ChatColor.GRAY + "";
+	String dark_gray = ChatColor.DARK_GRAY + "";
+	String white = ChatColor.WHITE + "";
+	String bold = ChatColor.BOLD + "";
+	String italic = ChatColor.ITALIC + "";
+	String underline = ChatColor.UNDERLINE + "";
+	String st = ChatColor.STRIKETHROUGH + "";
+	String magic = ChatColor.MAGIC + "";
+	String reset = ChatColor.RESET + "";
+	// iHolden //
